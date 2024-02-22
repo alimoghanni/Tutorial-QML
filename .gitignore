@@ -1,0 +1,62 @@
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+build/
+deploy/
+doc/
+misc/
+
+# Qt
+*.user
+*.pro.user
+*.pro.user.*
+
+
+
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Qt-specific
+*.qmlc
+*.qm
+*.moc
+*.rcc
+*.qrc
+*.pro.user
+
+# Generated files
+Makefile
+CMakeLists.txt
+CMakeFiles/
+
+# Compiled binaries
+*.exe
+*.out
+
+# IDE-specific
+.vscode/
+*.pro.user
+*.user
+*.autosave
+
+# Build directory
+build/
+
